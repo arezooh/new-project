@@ -9,3 +9,5 @@
 
 Home
 ====
+
+This is a home page of project.
